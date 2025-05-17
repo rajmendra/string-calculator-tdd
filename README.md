@@ -1,10 +1,3 @@
-Below are your two files:
-
----
-
-**README.md**
-
-````markdown
 # String Calculator TDD Kata
 
 A simple Node.js implementation of the String Calculator kata using Test-Driven Development (TDD) with Jest.
@@ -12,7 +5,7 @@ A simple Node.js implementation of the String Calculator kata using Test-Driven 
 ## Setup
 
 1. **Clone the repository**:
-   ```bash
+```bash
    git clone git@github.com:rajmendra/string-calculator-tdd.git
    cd string-calculator-tdd
 ````
